@@ -1,6 +1,6 @@
 // https://github.com/avijitsaha01/third-assignment-js
 
-// Kilometer To Meter converter Calculator
+// Kilometer To Meter converter calculator Function
 function kilometerToMeter(km){
     if(km <= 0){
         return "Give value greater than zero";
